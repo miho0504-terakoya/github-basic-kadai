@@ -1,6 +1,6 @@
 STEP1
-mkdir git_challeng
-cd git_challeng
+mkdir git_challenge
+cd git_challenge
 git init
 
 STEP2～3
